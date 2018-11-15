@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/App6/MainPage.xaml)
+* **[MainPage.xaml.cs](./CS/App6/MainPage.xaml.cs)**
+* [MainViewModel.cs](./CS/App6/MainViewModel.cs)
+<!-- default file list end -->
 # How to validate cell editors
 
 
