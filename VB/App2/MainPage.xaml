@@ -1,4 +1,4 @@
-﻿<Page
+<Page
     x:Class="App2.MainPage"
     xmlns:dxg="using:DevExpress.UI.Xaml.Grid" 
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
